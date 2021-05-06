@@ -1,3 +1,3 @@
 function hello1(){
-    var a=1
+    var a=4
 }
