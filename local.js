@@ -1,6 +1,4 @@
 function getAge(){
     console.log('aaaaaaa');
-    console.log('bbbbbbbb');
-    console.log('dagagg');
-    console.log('tetxaaaa');
+    console.log('测试lo c l');
 }
